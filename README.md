@@ -1,0 +1,2 @@
+hammerjs-rails
+==============

@@ -11,7 +11,7 @@ Add this line to your application's Gemfile:
 gem 'hammerjs-rails'
 ```
 
-Add one of the following directive to your Javascript manifest file (application.js):
+Add update your Javascript manifest file (application.js):
 
 ```js
 //= require hammer

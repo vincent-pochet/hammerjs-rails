@@ -14,7 +14,7 @@ gem 'hammerjs-rails'
 Add one of the following directive to your Javascript manifest file (application.js):
 
 ```js
-//= require hammerjs
+//= require hammer
 ```
 
 ## Contributing

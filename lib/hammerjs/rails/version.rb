@@ -1,4 +1,4 @@
-module Graphaeljs
+module Hammerjs
   module Rails
     VERSION = '0.1.0'
   end

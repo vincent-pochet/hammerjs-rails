@@ -1,5 +1,5 @@
 module Hammerjs
   module Rails
-    VERSION = '0.3.0'
+    VERSION = '2.0.4'
   end
 end
